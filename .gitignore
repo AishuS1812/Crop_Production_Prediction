@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+data/
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Byte-compiled / cache
+*.pyc
+
+# VS Code settings
+.vscode/
